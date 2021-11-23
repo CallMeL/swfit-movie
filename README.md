@@ -18,7 +18,7 @@ This project contains:
 4. collecting or liking a movie and find them in user page.
 Movie information showing in movie-detail page is comprised of movie storyline, director, genre, cast and poster.
 
-![https://imgur.com/87RUV8a](项目图形界面概览)
+![https://i.imgur.com/6IjHC1V.png](项目图形界面概览)
 
 ## 如何运行 run
 点击Movie文件夹下的Movie.xcodeproj即可
