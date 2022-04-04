@@ -20,7 +20,7 @@ Movie information showing in movie-detail page is comprised of movie storyline, 
 
 ![项目图形界面概览 UI](./readme-images/all-content.51.21.png)
 
-![软件组织结构 Architecture ](./swfit-movie/readme-images/archi.51.31.png)
+![软件组织结构 Architecture ](./readme-images/archi.51.31.png)
 
 
 ## 如何运行 run
