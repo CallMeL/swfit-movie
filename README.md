@@ -1,5 +1,5 @@
 # swfit-movie
-project
+Data and Structure course project 数据结构课设
 ## 概述Overview
 本项目是一个利用**swiftUI语言编程**实现的电影库系统手机应用软件，数据使用本地JSON数据解码。
 
