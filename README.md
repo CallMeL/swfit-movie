@@ -24,4 +24,5 @@ Movie information showing in movie-detail page is comprised of movie storyline, 
 
 
 ## 如何运行 run
-点击Movie文件夹下的Movie.xcodeproj即可
+点击`Movie`文件夹下的`Movie.xcodeproj`即可
+open `Movie.xcodeproj` under `Movie` folder
